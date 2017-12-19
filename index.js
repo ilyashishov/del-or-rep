@@ -49,7 +49,6 @@ const ignore = [
 	'*.sln',
 	'.gitmodules',
 	'.yarnrc',
-	'*.cshtml',
 	'*.pdf',
 	'*.xls',
 	'*.doc',
